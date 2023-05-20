@@ -7,7 +7,7 @@
 - Sklearn
 
 ## Files
-- **metrics**: Manual implementation of confusion matrix. Also printings important metrics such as accuracy, precision, repel and f1 score.
+- **metrics**: Manual implementation of confusion matrix. Prints important metrics such as accuracy, precision, repel and f1 score.
 - **main**: Execution file. Execute it with your python env.
 - **single_hlayer_nn**: One hidden layer neural network. 3 layers: one for input, one hidden and one for output.
 - **multi_hlayer_nn**: Multiple hidden layer neural network. All the hidden layers are the same size.
